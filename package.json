@@ -1,0 +1,22 @@
+{
+  "name": "evorp-theme",
+  "displayName": "Evorp's Aseprite Theme",
+  "description": "Improved version of the default Aseprite dark mode theme with some personal adjustments.",
+  "version": "1.0",
+  "author": { "name": "Evorp", "url": "https://3vorp.github.io" },
+  "contributors": [
+    { "name": "David Capello", "url": "http://davidcapello.com/" },
+    { "name": "Ilija Melentijevic", "url": "http://ilkke.blogspot.com/" },
+    { "name": "Nicolas Desilets", "url": "https://twitter.com/MapleGecko" }
+  ],
+  "publisher": "evorp",
+  "license": "AGPL-3.0-only",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      { "id": "evorp-dark", "path": "." }
+    ]
+  }
+}
