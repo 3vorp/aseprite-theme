@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<theme name="Evorp's Theme" screenscaling="1" uiscaling="2">
+<theme name="Evorp&apos;s Theme" screenscaling="1" uiscaling="2">
     <authors>
         <author name="Evorp" url="https://3vorp.github.io"/>
         <author name="David Capello" url="https://davidcapello.com/"/>
@@ -822,7 +822,7 @@
         <style id="tab_close_icon" extends="tab_icon">
             <icon part="tab_close_icon_normal" align="left middle" x="3"/>
             <icon part="tab_close_icon_active" align="left middle" x="3" state="focus"/>
-            <icon part="tab_close_icon_normal" align="left middle" x="3" state="selected"/>
+            <icon part="tab_close_icon_active" align="left middle" x="3" state="selected"/>
         </style>
         <style id="tab_modified_icon" extends="tab_icon">
             <icon part="tab_modified_icon_normal" align="left middle" x="3"/>
