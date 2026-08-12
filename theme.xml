@@ -729,7 +729,7 @@
         </style>
         <style id="separator_in_view_reverse">
             <background color="workspace"/>
-            <text color="background" x="4" align="left middle"/>
+            <text color="text" x="4" align="left middle"/>
         </style>
         <style id="vertical_separator" border-left="4" border-top="2" border-right="1" border-bottom="2">
             <background-border part="separator_vert" align="center"/>
