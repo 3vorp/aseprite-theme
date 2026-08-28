@@ -7,8 +7,8 @@
         <author name="Nicolas Desilets" url="https://twitter.com/MapleGecko"/>
     </authors>
     <fonts>
-        <font id="default" font="Aseprite"/>
-        <font id="mini" font="Aseprite"/>
+        <font id="default" file="evorp_font.png" type="spritesheet"/>
+        <font id="mini" file="evorp_font.png" type="spritesheet"/>
     </fonts>
     <dimensions>
         <dim id="scrollbar_size" value="12"/>
