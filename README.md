@@ -14,6 +14,7 @@ Improved version of the default Aseprite dark mode theme with some personal adju
 ## Changes compared with the default Aseprite dark theme:
 
 - Completely replaced the "Mini" font with the regular one in all cases (the mini font is horrendously illegible in a lot of cases when the regular font doesn't even cause any scaling issues to begin with).
+- Overhaul font to have a more consistent x-height, more distinct characters, and improve several punctuation characters.
 - Slightly rounded modal dialog box outlines to match the overall border radii used throughout the app more closely.
 - Made dividers solid instead of dashed (the dashed borders intersect weirdly with corners and cause a lot of visual noise).
 - Made the home tab icon look a bit less disproportionate (doors are Not that tall).
