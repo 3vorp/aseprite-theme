@@ -19,7 +19,6 @@ Improved version of the default Aseprite dark mode theme with some personal adju
 - Made dividers solid instead of dashed (the dashed borders intersect weirdly with corners and cause a lot of visual noise).
 - Made the home tab icon look a bit less disproportionate (doors are Not that tall).
 - Removed background from icon buttons on title bars (I thought it looked cleaner and it's more consistent with native UI).
-- Improved the Aseprite icon on the home page (the stock one is just an inverted version of the light mode logo which messes up the shading).
 - Made the focused button border appear on the outline instead of inside the button (this is what macOS does which I use, and I think it looks cleaner than the Windows-styled inner border).
 - Brightened the scrollbar up a bit and made the gutters Not solid black (this is a bit janky because of how Aseprite maps each UI element but whatever).
 - Made the close tab hover effect consistent with other hover effects throughout the app (the default theme uses this weird antialiased transparency mask).
