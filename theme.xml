@@ -627,8 +627,8 @@
             <border part="editor_normal"/>
             <border part="editor_selected" state="focus"/>
         </style>
-        <style id="workspace_news_header" border="2" border-left="6" border-right="6" border-bottom="2">
-            <background color="menuitem_highlight_face"/>
+        <style id="workspace_news_header" border="4" border-left="6" border-right="6" border-bottom="0">
+            <background color="background"/>
         </style>
         <style id="workspace_update_notification" border="6" border-bottom="0">
             <background color="background"/>
@@ -652,7 +652,7 @@
             <text color="button_normal_text"/>
             <text color="button_hot_text" state="mouse"/>
             <text color="button_selected_text" state="selected"/>
-            <text color="background" x="1" y="1" state="disabled"/>
+            <text color="background" x="1" y="1" state="disabled" decorative="true"/>
             <newlayer/>
             <text color="disabled" state="disabled"/>
         </style>
@@ -887,7 +887,6 @@
         </style>
         <style id="workspace_separator" extends="horizontal_separator">
             <background color="workspace"/>
-            <background-border part="separator_horz" color="workspace_text" align="middle"/>
         </style>
         <style id="workspace_panel">
             <background color="workspace"/>
@@ -1178,7 +1177,7 @@
             <text color="button_hot_text" state="mouse"/>
             <text color="button_selected_text" state="mouse capture"/>
             <text color="button_selected_text" state="capture selected"/>
-            <text color="background" x="1" y="1" state="disabled"/>
+            <text color="background" x="1" y="1" state="disabled" decorative="true"/>
             <newlayer/>
             <text color="disabled" state="disabled"/>
         </style>
@@ -1188,7 +1187,7 @@
             <text color="button_hot_text" state="mouse" align="top"/>
             <text color="button_selected_text" state="mouse capture" align="top"/>
             <text color="button_selected_text" state="capture selected" align="top"/>
-            <text color="background" x="1" y="1" state="disabled" align="top"/>
+            <text color="background" x="1" y="1" state="disabled" align="top" decorative="true"/>
             <newlayer/>
             <text color="disabled" state="disabled" align="top"/>
         </style>
